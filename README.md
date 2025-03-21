@@ -11,6 +11,11 @@ This is a simple console application built with **C#** and **.NET**, designed to
 - **User Search**: Allows searching for users by name.
 - **User Deletion**: Allows removing a user from the system by their name.
 
+## .Zip
+
+[UserManagementConsoleApp.zip](https://github.com/user-attachments/files/19380988/UserManagementConsoleApp.zip)
+
+
 ## Getting Started
 
 ### Prerequisites
